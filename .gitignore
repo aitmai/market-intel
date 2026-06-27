@@ -37,3 +37,7 @@ Thumbs.db
 # Project specific
 analysis_results.json
 *.log
+
+# Secrets - never push these to GitHub
+credentials.json
+.env
